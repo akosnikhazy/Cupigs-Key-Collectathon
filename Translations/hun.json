@@ -1,0 +1,27 @@
+{
+
+	"startGame": "Kezdés",
+	"badLuckCounter": "Bad Luck x {0}",
+	"success": "Big Success!",
+	"btnNextLevel": "Next Level",
+	"btnMainMenu": "Main Menu",
+	"btnPlayGame": "Játék",
+	"btnLevelSelect": "Level Select",
+	"levelTime": "Best Time: {0}",
+	"btnSettings": "Settings",
+	"btnExitGame": "Exit Game",
+	"SFXVolumeText": "Sound Effect Volume {0}%",
+	"musicVolumeText": "Music Volume {0}%",
+	"languageSelectText": "Language:",
+	"englishLanguageName": "English",
+	"hungarianLanguageName": "Hungarian",
+	"ukranianLanguageName": "Ukranian",
+	"spanishLanguageName": "Spanish",
+	"mandarinLanguageName": "Mandarin",
+	"japaneseLanguageName": "Japanese",
+	"koreanLanguageName": "Korean",
+	"pirateLanguageName": "Pirate English (wildcard)",
+	"settingsTitleText": "Settings",
+	"settingsLangSelectReloadMessage": "(you should start playing or reload the game to see the changes)"
+
+}

@@ -1,0 +1,46 @@
+{
+
+	"startGame": "Start",
+	"badLuckCounter": "Bad Luck x {0}", /* the {0} will be a number in the game leave it where is should be in your language */
+	"success": "Big Success!", 
+	"btnNextLevel": "Next Level",
+	"btnMainMenu": "Main Menu",
+	"btnPlayGame": "Play",
+	"btnContinueGame": "Continue",
+	"btnLevelSelect": "Level Select",
+	"levelTime": "Best Time: {0}",
+	"btnSettings": "Settings",
+	"btnExitGame": "Exit Game",
+	"SFXVolumeText": "Sound Effect Volume {0}%",
+	"musicVolumeText": "Music Volume {0}%",
+	"languageSelectText": "Language:",
+	"englishLanguageName": "English", /* These are the names of the languages. */
+	"hungarianLanguageName": "Hungarian",
+	"ukranianLanguageName": "Ukranian",
+	"germanLanguageName": "German",
+	"spanishLanguageName": "Spanish",
+	"mandarinLanguageName": "Mandarin",
+	"japaneseLanguageName": "Japanese",
+	"koreanLanguageName": "Korean",
+	"pirateLanguageName": "Pirate English (wildcard)",
+	"settingsTitleText": "Settings",
+	"settingsLangSelectReloadMessage": "(You should start playing or reload the game to see the changes)", /* When settings are set in the game it will tell the player this */
+	"hello":"Hello ",
+	"level":"Level {0}",
+	"tutorialLv1":"Treasure is the target.", /* ezt "A kincsesláda a cél lenne magyarul */
+	"tutorialLv2":"Keys open the chests. Collect them all!",
+	"tutorialLv6":"Gaps with maximum two platform wide are no problem! Just dash! Press Space on keyboard or A on Xb controller or X on PS controller.",
+	"tutorialLv11":"Sharks... SHARKS!!!???",
+	"tutorialLv67":"No air! No problem... but be aware of space rocks! Move! Move! MOVE!",
+	"translations":"Translations",
+	"credits":"Credits",
+	"music":"Music",
+	"sfx":"SFX", /* You can leave this like this if Ukranian players use this too */
+	"createdby","Created By",
+	"additionalAssets":"Addittional Assets" /* This will be in the credit. This is the title of the list of things I did not make but use. */
+	"thankYou":"Thank You For Playing!"
+	"website":"Website",
+	"buyOnSteam":"Buy on Steam",
+	"tryWithController":"You can play with Controller / Gamepad"
+
+}
